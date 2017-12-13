@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">RssReader</string>
+    <string name="btnAddSite">Add feed</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="incorrectUrl">Please enter a valid url</string>
+    <string name="rssUrlNotFound">Rss url not found. Please check the url or try again</string>
+    <string name="fetchingRss">Fetching RSS Information...</string>
+    <string name="loadingRecentArticles">Loading recent articles</string>
+    <string name="delete">Delete</string>
+    <string name="deleteFeed">Delete feed</string>
+</resources>

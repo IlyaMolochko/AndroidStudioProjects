@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="btnAddSite">Добавить источник</string>
+    <string name="btnSubmit">Добавить</string>
+    <string name="btnCancel">Отмена</string>
+    <string name="incorrectUrl">Введете корректный адрес</string>
+    <string name="delete">Удаление</string>
+    <string name="deleteFeed">Удалить источник</string>
+    <string name="fetchingRss">Получение rss данных</string>
+    <string name="rssUrlNotFound">URL-адрес не найден. Пожалуйста, проверьте URL-адрес или попробуйте еще раз</string>
+    <string name="loadingRecentArticles">Загрузка последних статей</string>
+</resources>
